@@ -13,6 +13,8 @@ An AI-powered app that checks for potential drug-drug interactions using free, o
 - 🖥️ Easy-to-use Streamlit UI
 - 🔐 No OpenAI dependency — fully free and local!
 
+Link -http://localhost:8501/
+
 ---
 
 ## 🧠 Tech Stack
